@@ -6,9 +6,9 @@
 
 Зачем часами переписывать промпты, если можно тыкнуть пальцем? Этот инструмент превращает долгий процесс «прочитал → нашёл ошибки → сформулировал запрос на исправление» в три клика: **выделил → выбрал реакцию → отправил**.
 
-<img width="784" height="901" alt="image" src="https://github.com/user-attachments/assets/14ac9ee4-85f4-4d47-b54d-d3aca6c2ef9d" />
+<img width="392" height="450" alt="image" src="https://github.com/user-attachments/assets/14ac9ee4-85f4-4d47-b54d-d3aca6c2ef9d" />
 
-<img width="780" height="461" alt="image" src="https://github.com/user-attachments/assets/d9d58846-76af-47b9-b7ed-2e66f8aaacc1" />
+<img width="390" height="230" alt="image" src="https://github.com/user-attachments/assets/d9d58846-76af-47b9-b7ed-2e66f8aaacc1" />
 
 
 ## ✨ Возможности
