@@ -241,6 +241,7 @@
                 cursor: pointer;
                 transition: all 0.2s;
                 font-size: 13px;
+                color: black;
                 line-height: 1.2;
             `;
 
