@@ -27,7 +27,7 @@
     *   [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Safari, Edge) — **рекомендуется**.
     *   [Violentmonkey](https://violentmonkey.github.io/) (альтернатива).
 
-2.  **[Установите скрипт AI Feedback Tool](https://github.com/tvoysoft/ai-feedback-tool/blob/main/ai-feedback-tool.user.js)** (нажмите на ссылку, менеджер предложит установку).
+2.  **[Установите скрипт AI Feedback Tool](https://github.com/tvoysoft/ai-feedback-tool/raw/refs/heads/main/ai-feedback-tool.user.js)** (нажмите на ссылку, менеджер предложит установку).
 
 3.  Откройте [DeepSeek Chat](https://chat.deepseek.com) или другой поддерживаемый сервис. В правом нижнем углу окна ввода появится кнопка **«Собрать правки (0)»** — значит, инструмент готов к работе.
 
